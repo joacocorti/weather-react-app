@@ -1,8 +1,8 @@
 # Librerías utilizadas
-Tailwind CSS
-Luxon
-toastify
-unicons
+Tailwind CSS,
+Luxon,
+toastify,
+unicons.
 
 # Getting Started with Create React App
 
