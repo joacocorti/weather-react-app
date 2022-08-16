@@ -1,3 +1,10 @@
+# Funcionamiento
+En la parte superior se encuentran las 5 ciudades seleccionables, debajo de estas hay un buscador en el cual se le ingresa el nombre de una ciudad que se quiera buscar y se acciona con el boton de la lupa.
+A la derecha de la lupa se encuentra se encuentra otro boton el cual trae la información sobre el clima de la ciudad en la que nos encontramos.
+Debajo de lo anterior, el horario de la ciudad, el nombre, una descripción, la informacion del clima actual y los 5 dias siguientes!
+
+PD: el clima esta medido en celcius.
+
 # Librerías utilizadas
 Tailwind CSS,
 Luxon,
